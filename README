@@ -1,0 +1,11 @@
+Swashbuckler 3D
+
+Prerequisites: 
+* java -> http://www.oracle.com/technetwork/java/javase/downloads/index.html
+* sbt -> https://github.com/harrah/xsbt/wiki/Getting-Started-Setup
+
+Instructions (in the top level folder):
+1. Type sbt<enter>
+2. Type run<enter>
+3. Play!
+
